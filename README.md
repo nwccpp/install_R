@@ -6,10 +6,10 @@
 ##### How to use R Studio
 ###### Installing Packages
 1. Open R Studio from applications folder\
-![R Studio Layout](https://github.com/nwccpp/install_R/blob/main/Presentation1.jpg?raw=true)
+![R Studio Layout] (https://github.com/nwccpp/install_R/blob/images/Presentation1.jpg?raw=true)
 
 2. Create a new project\
-![Steps](https://github.com/nwccpp/install_R/blob/main/Presentation2.jpg?raw=true)
+![Steps] (https://github.com/nwccpp/install_R/blob/images/Presentation2.jpg?raw=true)
 
 3. Click on “File/New File/R script”:\
 ![New Script](https://github.com/nwccpp/install_R/blob/main/R_Script_1.png?raw=true)
@@ -46,5 +46,8 @@ library(ggthemes)
 library(scales)
 library(wesanderson)
 ````
-6.For help type ? followed by the *command* and *run*. For shortcuts in R Studio, please see the following [document] (https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts-in-the-RStudio-IDE)
+6.For help type ? followed by the *command* and *run*. For shortcuts in R Studio, please see the following [document](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts-in-the-RStudio-IDE)
+```{r}
+?merge
+```
 7. Now you are ready to work in R Studio! 
