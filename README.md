@@ -6,10 +6,10 @@
 ##### How to use R Studio
 ###### Installing Packages
 1. Open R Studio from applications folder\
-![R Studio Layout] (https://github.com/nwccpp/install_R/blob/images/Presentation1.jpg?raw=true)
+![R Studio Layout](https://github.com/nwccpp/install_R/blob/images/Presentation1.jpg?raw=true)
 
 2. Create a new project\
-![Steps] (https://github.com/nwccpp/install_R/blob/images/Presentation2.jpg?raw=true)
+![Steps](https://github.com/nwccpp/install_R/blob/images/Presentation2.jpg?raw=true)
 
 3. Click on “File/New File/R script”:\
 ![New Script](https://github.com/nwccpp/install_R/blob/main/R_Script_1.png?raw=true)
